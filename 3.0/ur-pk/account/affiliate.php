@@ -10,8 +10,8 @@ $_['text_payment']              = 'ادائیگی کی تفصیلات';
 $_['text_cheque']               = 'چیک';
 $_['text_paypal']               = 'پے پال';
 $_['text_bank']                 = 'بنک ٹرانسفر';
-$_['text_success']              = 'Success: Your account has been successfully updated.';
-$_['text_agree']                = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_success']              = 'آپ کا اکاوٗنٹ کامیابی سے اپ دیٹ ہو چکا ہے';
+$_['text_agree']                = 'میں <a href="%s" class="agree"><b>%s</b></a> پڑھ چکا ہوں اور اس سے متفْق ہوں';
 
 // Entry
 $_['entry_company']             = 'Company';
