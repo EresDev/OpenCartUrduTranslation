@@ -14,10 +14,10 @@ $_['text_success']              = 'آپ کا اکاوٗنٹ کامیابی س�
 $_['text_agree']                = 'میں <a href="%s" class="agree"><b>%s</b></a> پڑھ چکا ہوں اور اس سے متفْق ہوں';
 
 // Entry
-$_['entry_company']             = 'Company';
-$_['entry_website']             = 'Web Site';
-$_['entry_tax']                 = 'Tax ID';
-$_['entry_payment']             = 'Payment Method';
+$_['entry_company']             = 'کمپنی';
+$_['entry_website']             = 'ویب سائیٹ';
+$_['entry_tax']                 = 'ٹیکس آئی ڈی';
+$_['entry_payment']             = 'ادائیگی کا طریقہ';
 $_['entry_cheque']              = 'Cheque Payee Name';
 $_['entry_paypal']              = 'PayPal Email Account';
 $_['entry_bank_name']           = 'Bank Name';
