@@ -18,13 +18,13 @@ $_['entry_company']             = 'کمپنی';
 $_['entry_website']             = 'ویب سائیٹ';
 $_['entry_tax']                 = 'ٹیکس آئی ڈی';
 $_['entry_payment']             = 'ادائیگی کا طریقہ';
-$_['entry_cheque']              = 'Cheque Payee Name';
-$_['entry_paypal']              = 'PayPal Email Account';
-$_['entry_bank_name']           = 'Bank Name';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
-$_['entry_bank_swift_code']     = 'SWIFT Code';
-$_['entry_bank_account_name']   = 'Account Name';
-$_['entry_bank_account_number'] = 'Account Number';
+$_['entry_cheque']              = 'چیک وصول کرنے والے کا نام';
+$_['entry_paypal']              = 'پے پال ای میل اکاوٗنٹ';
+$_['entry_bank_name']           = 'بنک کا نام';
+$_['entry_bank_branch_number']  = 'برانچ نمبر';
+$_['entry_bank_swift_code']     = 'سووفٹ کوڈ';
+$_['entry_bank_account_name']   = 'اکاوٗنٹ کا نام';
+$_['entry_bank_account_number'] = 'اکاوٗنٹ نمبر';
 
 // Error
 $_['error_agree']               = 'Warning: You must agree to the %s!';
