@@ -27,9 +27,9 @@ $_['entry_bank_account_name']   = 'اکاوٗنٹ کا نام';
 $_['entry_bank_account_number'] = 'اکاوٗنٹ نمبر';
 
 // Error
-$_['error_agree']               = 'Warning: You must agree to the %s!';
-$_['error_cheque']              = 'Cheque Payee Name required!';
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
-$_['error_bank_account_name']   = 'Account Name required!';
-$_['error_bank_account_number'] = 'Account Number required!';
-$_['error_custom_field']        = '%s required!';
+$_['error_agree']               = 'انتباہ! آپ کا %s سے اتفاق کرنا ضروری ہے';
+$_['error_cheque']              = 'چیک وصول کرنے والے کا نام ضروری ہے';
+$_['error_paypal']              = 'پے پال ای میل درست نہیں';
+$_['error_bank_account_name']   = 'اکاوٗنٹ کا نام ضروری ہے';
+$_['error_bank_account_number'] = 'اکاوٗنٹ نمبر ضروری ہے';
+$_['error_custom_field']        = ' %sضروری ہے ';
